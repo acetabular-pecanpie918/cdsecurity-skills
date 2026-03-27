@@ -1,0 +1,28 @@
+# Local working copies (root-level duplicates of audit-prep/ contents)
+/SKILL.md
+/VERSION
+/references/
+
+# Eval workspace (iteration outputs, agent logs)
+audit-prep-workspace/
+
+# OS files
+.DS_Store
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# Audit prep runtime artifacts
+.audit-prep/
