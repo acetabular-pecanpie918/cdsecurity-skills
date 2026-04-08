@@ -38,7 +38,7 @@ The report has these sections in order:
 
 ### Banner
 
-Print the banner from the end of this file before doing anything else — in every mode (full pipeline, single phase, scan, fix). Always use this exact banner. Never generate, invent, or substitute a different banner. Also include it at the top of `--report` markdown files.
+Print the banner from the end of this file before doing anything else. Also include it at the top of `--report` markdown files.
 
 ### Phase section template
 

@@ -9,11 +9,21 @@ A library of Claude Code skills for smart contract security, built by CD Securit
 ## Structure
 
 ```
-audit-prep/          # Solidity audit preparation pipeline
-  SKILL.md           # Main orchestrator
-  VERSION            # Skill version
-  references/        # Agent instructions and shared rules
-  evals/             # Test cases and grading scripts
+audit-prep/              # Solidity audit preparation (Foundry/Hardhat)
+  SKILL.md               # Orchestrator
+  VERSION                # Skill version
+  references/            # Agent instructions and shared rules
+    agents/              # Per-agent instructions (testing, source, infra)
+    shared-rules.md      # Common output format for agents
+  evals/                 # Test cases and grading scripts
+
+rust-audit-prep/         # Rust/Solana audit preparation (Anchor/native)
+  SKILL.md               # Orchestrator
+  references/            # Agent instructions, checklist, shared rules
+    agents/              # Per-agent instructions (testing, source, infra)
+    checklist.md         # Full check reference
+    shared-rules.md      # Common output format for agents
+    report-template.md   # Detailed report template
 ```
 
 ## Rules

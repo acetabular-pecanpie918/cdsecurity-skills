@@ -5,7 +5,7 @@
       "id": 1,
       "name": "hardhat-small-project",
       "prompt": "prepare this project for audit",
-      "project_dir": "/path/to/your/hardhat-project",
+      "project_dir": "/Users/dimitardimitrov/audits/planchet-contracts",
       "expected_output": "Full 8-phase audit readiness report for a Hardhat project with 4 contracts. High coverage (95%+), good practices (100), missing deploy scripts and documentation.",
       "assertions": [
         {
@@ -98,7 +98,7 @@
       "id": 2,
       "name": "foundry-large-project",
       "prompt": "prepare this project for audit",
-      "project_dir": "/path/to/your/foundry-project",
+      "project_dir": "/Users/dimitardimitrov/audits/Buildefi-Contracts",
       "expected_output": "Full 8-phase audit readiness report for a Foundry project with 38+ contracts. Uninitialized submodules, missing deploy scripts, missing documentation.",
       "assertions": [
         {

@@ -2,7 +2,7 @@
 # Grade audit-prep eval output against assertions
 # Usage: ./grade.sh <output_file> <eval_id>
 #   output_file: concatenated agent outputs (agent-a + agent-b + agent-c)
-#   eval_id: 1 (hardhat-small-project) or 2 (foundry-large-project)
+#   eval_id: 1 (planchet) or 2 (buildefi)
 
 OUTPUT="$1"
 EVAL_ID="${2:-1}"
